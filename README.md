@@ -88,5 +88,20 @@ model.add(Dense(num_classes, activation = 'softmax', kernel_regularizer=regulari
 ## Production
 * Streamlit was used to deploy the model. 
 
+![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/streamlitscreenshot.png "Streamlit")
+
 ## Presentation
 [PowerPoint](https://github.com/azwinlam/beerpricechecker/blob/main/Beer%20Price%20Checker.pptx)
+
+## Futher Improvements
+* More image data to increase accuracy
+* Implement ensemble methods to increase accuracy further
+* Deploy model in a mobile app
+* Expand the beer brand selection
+* Expand into other grocery categories such as bottled seasoning, packaged foods, canned foods, etc
+* Expand pricing of goods database
+
+## Business Value
+* Collect data on items that are price sensitive
+* Opportunities for grocers to market directly to the consumer
+* Logistic companies can offer consolidated grocery services
