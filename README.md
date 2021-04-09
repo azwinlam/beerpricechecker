@@ -1,4 +1,4 @@
-![alt text | 100x200 ](https://github.com/azwinlam/beerpricechecker/blob/main/images/title.png "Title")
+![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/title.png "Title")
 
 # Beer Price Checker
 Take a photo, find the best price at a grocer near you
