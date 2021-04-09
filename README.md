@@ -89,4 +89,4 @@ model.add(Dense(num_classes, activation = 'softmax', kernel_regularizer=regulari
 * Streamlit was used to deploy the model. 
 
 ## Presentation
-[PowerPoint](https://github.com/azwinlam/beerpricechecker/blob/main/0Beer%20Price%20Checker.pptx)
+[PowerPoint](https://github.com/azwinlam/beerpricechecker/blob/main/Beer%20Price%20Checker.pptx)
