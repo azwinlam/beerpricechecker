@@ -2,7 +2,7 @@
 Take a photo, find the best price at a grocer near you
 
 ## Objective
-* To find the best price for a beer you wish to purchase at a grocer near you.
+* To find the best price for beer at a grocer near you.
 
 ## Project Overview
 * Scraped over 3500+ images for 18 brands of beer.
@@ -32,7 +32,7 @@ Take a photo, find the best price at a grocer near you
 * Images were cropped using a standalone python .exe called inbac.
 * Labels were applied to the images using folders.
 
-![alt text](https://github.com/azwinlam/UberEats-Analysis/blob/main/figures/cuisineCounts.png
+![alt text](https://github.com/azwinlam/beerpricechecker/blob/main/images/consumercouncil.png "Consumer Council")
 
 ## Modelling
 * The baseline CCN model was taken from https://www.tensorflow.org/tutorials/images/classification.
