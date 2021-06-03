@@ -2,8 +2,6 @@
 
 # Beer Price Checker
 Take a photo, find the best price at a grocer near you
-* http://34.71.80.132:8501/
-* Streamlit server hosted on Google Cloud Platform VM. Should be running until June 30, 2021.
 
 ## Objective
 * To find the best price for a beer you wish to purchase at a grocer near you.
